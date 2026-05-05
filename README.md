@@ -1,6 +1,7 @@
 # Taskati - Task Management & Daily Organization App
 
-![Taskati Project Showcase](docs/taskati_github_banner.png)
+<img width="1672" height="941" alt="taskati_github_banner" src="https://github.com/user-attachments/assets/985be331-0434-483b-9316-9f6ac79c50cd" />
+
 
 ## Project Overview
 
